@@ -5,7 +5,7 @@
  */
 package dataaccess;
 
-import java.sql.*;
+
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
